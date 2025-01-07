@@ -1,5 +1,6 @@
-## Hi there 👋
+## Hi my name is lkrzar, this is my repository. 😊
 
+I'm new in this world, basically my first language is python, and it's feels good, (btw english not is my first language c:)
 <!--
 **lkrzar/lkrzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
