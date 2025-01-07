@@ -2,7 +2,13 @@
 
 I'm new in this world, basically my first language is python, and it's feels good, (btw english not is my first language c:)
 
-<img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Python Logo" width="80">
+### Learning: 
+
+<div style="display: flex; gap: 10px;">
+  <img src="https://img.icons8.com/?size=100&id=l75OEUJkPAk4&format=png&color=000000" alt="Python Logo" width="80">
+  <img src="https://img.icons8.com/?size=100&id=LoL4bFzqmAa0&format=png&color=000000" alt="Github Logo" width="80">
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" alt="Git Logo" width="80">
+</div>
 
 <!--
 **lkrzar/lkrzar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
